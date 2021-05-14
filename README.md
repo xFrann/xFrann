@@ -6,7 +6,7 @@ With every line of code I write I get closer to my dream, to become a software e
 
 📖 Currently I'm learning and working at the same time, doing freelance work (mainly Static Websites).    
   
-![https://frann.dev/](https://img.shields.io/badge/frann.dev-Visit%20my%20website!-blue?url=https://frann.dev)  
+![https://frann.dev/](https://img.shields.io/badge/endpoint?url=https://frann.dev&frann.dev-Visit%20my%20website!-blue)  
   
 🕘 At the moment I'm spending my time learning different frameworks (React, Spring, Django)  
   
