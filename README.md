@@ -1,7 +1,7 @@
 # ✨ Hi, I'm Frangu Mădălin
 
 
-I'm a 20 years old, self-taught, software developer.
+I'm a 21 years old, self-taught, software developer.
 With every line of code I write I get closer to my dream, to become a software enginner.
 
 📖 Currently I'm learning and working at the same time, doing freelance work (mainly Static Websites).    
