@@ -1,14 +1,9 @@
-# ✨ Hi, I'm Frangu Mădălin
+# ✨ Hellou
 
+Sometimes I write code,
+When works > me happy
+When don't > me sad
 
-I'm a 22 years old, self-taught, software developer.
-With every line of code I write I get closer to my dream, to become a software enginner.
-
-📖 Currently I'm learning and working at the same time, doing freelance work (mainly Static Websites).    
-  
-My website => https://frann.dev
-  
-🕘 At the moment I'm spending my time learning different frameworks (React, Spring, Django)  
  
 
 ## 🤘 Best way to get in touch with me? 
